@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Lumos Coffee</title>
+</head>
+<body>
+
+  <h1>☕ Lumos Coffee</h1>
+
+  <!-- Navigasi -->
+  <a href="index.html">Beranda</a> |
+  <a href="menu.html">Menu</a> |
+  <a href="promo.html" target="_blank">Promo</a> |
+  <a href="contact.html">Kontak</a>
+
+  <h2>Ngopi dengan Suasana Hangat</h2>
+  <p>
+    Lumos Coffee menghadirkan kopi pilihan dari berbagai daerah Indonesia,  
+    mulai dari Aceh Gayo hingga Toraja, disajikan dengan cinta.
+  </p>
+
+  <ul>
+    <li>Lihat <a href="menu.html#special">Menu Spesial</a> (relative hyperlink)</li>
+    <li>Kunjungi <a href="https://kopikenangan.com" target="_blank">Kopi Kenangan</a> (absolute hyperlink)</li>
+    <li>Pesan via email: <a href="mailto:lumoscoffee@mail.com">lumoscoffee@mail.com</a> (email hyperlink)</li>
+    <li>Cek promo terbaru di <a href="promo.html" target="_blank">Halaman Promo</a> (targeting hyperlink)</li>
+  </ul>
+
+  <p>
+    Lumos Coffee <br>
+    Jl. Kenangan No. 12, Bandung <br>
+    022-333-4444
+  </p>
+
+  <p>
+    &copy; 2025 Lumos Coffee
+  </p>
+
+</body>
+</html>
